@@ -1,6 +1,6 @@
 # Misscraft :link: http://blog.misscraft.top 
-### :page_facing_up: [1](http://blog.misscraft.top/tag.html) 
+### :page_facing_up: [2](http://blog.misscraft.top/tag.html) 
 ### :speech_balloon: 0 
-### :hibiscus: 528 
-### :alarm_clock: 2024-07-19 11:25:34 
+### :hibiscus: 1498 
+### :alarm_clock: 2024-07-22 02:23:25 
 ### Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek)
